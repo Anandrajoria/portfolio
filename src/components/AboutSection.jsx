@@ -30,7 +30,7 @@ export const AboutSection = () => {
               </a>
 
               <a
-                href="assets/myResume.pdf" download={true}
+                href="./assets/myResume.pdf" download={true}
                 className="px-6 py-2 rounded-full border border-primary text-primary hover:bg-primary/10 transition-colors duration-300"
               >
                 Download CV

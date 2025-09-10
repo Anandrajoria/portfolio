@@ -5,7 +5,7 @@ const projects = [
     id: 1,
     title: "devTinder",
     description: "A beautiful landing page app using React and Tailwind.",
-    image: "/projects/project1.png",
+    image: "./projects/project1.png",
     tags: ["React", "TailwindCSS", "daisy ui", "mongo db","express js"],
     demoUrl: "#",
     githubUrl: "https://github.com/Anandrajoria/devTinder",
@@ -15,7 +15,7 @@ const projects = [
     title: "iPhone 15 Pro – Precision Meets Innovation",
     description:
       "Experience cutting-edge performance, stunning design, and breakthrough technology with the iPhone 15 Pro",
-    image: "/projects/project2.png",
+    image: "./projects/project2.png",
     tags: ["react", "gsap", "telwind css"],
     demoUrl: "#",
     githubUrl: "https://github.com/Anandrajoria/I_phone_Website",
@@ -25,7 +25,7 @@ const projects = [
     title: "SocialMedia – UI Clone for Modern Social Platforms",
     description:
       "This is a fully responsive frontend project replicating a social media platform interface.",
-    image: "/projects/project3.png",
+    image: "./projects/project3.png",
     tags: ["React"],
     demoUrl: "#",
     githubUrl: "https://github.com/Anandrajoria/social-media-platform",
